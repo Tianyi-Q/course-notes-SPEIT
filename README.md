@@ -1,7 +1,5 @@
 # course-notes-SPEIT
 
-Bienvenue, les élèves de SPEIT:)
-
 Ici vous trouverez les notes rédigées (en LaTeX ou sur papier) pour certains cours du programme de la classe préparatoire de SPEIT, l'École d'Ingénieurs Paris-SJTU.
 
 Vous pouvez les utiliser pour organiser vos notes ou réviser pour les khôlles, les devoirs, etc.
@@ -20,3 +18,6 @@ J'ai décidé de tout regrouper au même endroit. Pour le moment, il y a les cou
 * L'optique ondulatoire(PHY2303P, résumé)
 * L'électromagnétisme en régime statique(PHY2304P, résumé)
 * La mécanique des solides(PHY2304P, résumé des chapitres 3 et 4)
+* La mécanique quantique(PHY3306P, cheating paper pour le DS et l'EF)
+* La physique statistique(PHY3403P, cheating paper pour l'EF)
+* La mécanique des fluides(PHY3402P, cheating paper pour l'EF)
